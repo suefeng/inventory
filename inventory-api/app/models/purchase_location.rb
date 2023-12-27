@@ -1,0 +1,2 @@
+class PurchaseLocation < ApplicationRecord
+end
